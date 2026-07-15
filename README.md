@@ -2,3 +2,4 @@
   <img src="https://render.gitanimals.org/lines/{ryusuye0n}?pet-id=1" width="1000" height="150"/>
 </a>
 
+[![My GitFut card](https://gitfut.com/ryusuye0n.png)](https://gitfut.com/ryusuye0n)
