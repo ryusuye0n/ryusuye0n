@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-  <a href="https://gitfut.com/ryusuye0n">
+  <a href="https://gitfut.com/ryusuye0n?country=KR">
     <img
-      src="https://gitfut.com/ryusuye0n.png"
-      alt="My GitFut card"
+      src="https://gitfut.com/ryusuye0n.png?country=KR"
       width="200"
+      alt="My GitFut card"
     />
   </a>
 </p>
